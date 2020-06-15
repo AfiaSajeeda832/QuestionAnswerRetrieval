@@ -1,0 +1,189 @@
+421122	fehlerhafte zeile * in source list /etc/apt/sources.list ( dist parse )
+457914	kann ubuntu nicht von usb installieren
+501754	was ist ein shortcut, den ich nutzen kann um zwischen anwendungen zu wechseln ?
+408066	warum aktualisiert ubuntu 12.04 libreoffice nicht, so wie firefox ?
+38972	problem mit installation von nvidia geforce 310m treibern
+67594	kann pakete in ubuntu software center nicht reparieren
+78253	ist es möglich gcc von 4.6.1 auf 4.4.x zu downgraden ?
+322252	aktualisierung von ubuntu 12.04 auf 13.10
+106527	wie kann ich eine ubuntu installation von einer hdd auf eine andere verschieben ?
+485183	ändere das anwendungs icon theme ohne panel icons zu ändern
+306109	wie kann ich mein von usb bootbares ubuntu auf dem mac booten ?
+179480	wget kann image nicht herunterladen
+187041	installation der amd 12.8 treiber schlägt fehl , warum ?
+64444	wann wird precise pangolin freigegeben ?
+249096	kein wifi in 12.10 broadcom bcm4313 samsung rf511
+289918	installieren von ubuntu server auf ubuntu desktop
+521349	wie kann man die ubuntu software centre anwendung installieren ?
+429805	wie kann man den gastaccount in ubuntu 13.10 deaktivieren ( saucy )
+486418	parameterübergabe im installer von 14.04
+249030	fehler während versuch ein sudo apt-get update zu machen
+217472	ubuntu software center kaufen button funktioniert nicht
+124318	welche version von ubuntu 12.04 soll ich nehmen ? 32bit oder 64 bit ?
+102923	kann ich gnome2 themes in gnome3 nutzen ?
+393338	fehler beim booten auf acer aspire v572p-6858
+453506	ubuntu anforderungen
+220213	warum hat ubuntu keine media codecs ?
+388016	es gab einen abschnitt ohne package : header , während der aktualisierung
+202377	wie kann man ein rpm paket in ein für ubuntu sinnvolles format konvertieren
+338504	installieren von ubuntu zusammen mit windows ?
+158555	wie viele maximale cpus untersützt ubuntu standardmäßig ?
+445989	problem mit browser flash plugin
+210870	nexus 7 dual-boot mit android ?
+164300	intallieren von ubuntu ohne eine cd , mit einer externen festplatte
+70223	kein window snapping auf frischer installation
+152380	wie kann man die default indicators entfernen und eigene hinzufügen ?
+458348	unterschied zwischen 64-bit ( nativ ) und amd64-mac achitektur
+96080	wie kann man google chrome als standardwebbrowser festlegen ?
+80574	gibt es einen weg um dieses drag to maximize auszuschalten?
+128727	kaputtes upgrade von 11.10 auf 12.04
+354699	ubuntu auf windows 8 auf hp 2000 notebook pc
+5484	wie kann ich meinen /home ordner auf eine andere partition verschieben wenn es bereits teil der / partition ist ?
+445944	apps in ubuntu touch
+297593	ich habe keinen ton auf meinen kopfhörern, aber ich habe ton auf meinen lautsprechern auf ubuntu 13.04
+199065	ersetzen der openjdk mit der oracle jdk
+245527	wireless probleme auf toshiba c855d satellite
+122595	login screen ( lightdm ) hintergrund ist schwarz auf ubuntu 11.10
+401434	von wo kann ich den kernel quellcode für version 3.8.0-29-generic herunterladen
+3645	wie kann man .ts dateien in etwas nützliches konvertieren ?
+305642	wie funktioniert dual boot auf ubuntu
+277183	ubuntu auf usb laufen lassen aber mit viel ram ; wie kann man ein programm aus ram ausführen ?
+138003	kann keine youtube flash videos im opera browser auf ubuntu ansehen
+20840	ich kann das lied was ich gerade gekauft habe nicht herunterladen
+513752	ich will die größe meiner boot partition vergrößern ( ubuntu 14.04 version )
+523163	wie kann man ein eine festplatte definieren damit sie autoamtische beim hochfahren gemountet wird ?
+315887	update manager zeigt verfügbare updates , lässt micht aber nicht aktualisieren
+38144	video funktioniert nicht auf integrierter intel 82865g karte
+344419	automatische aktualisierungen
+167475	evolution 3.4.3 nach 12.04 ?
+162686	wie kann ich standardmäßig windows dual-booten ?
+141656	ubuntu 12.04 installer sieht windows nicht, das bereits auf meinem computer installiert ist
+46687	habe kernel ausversehen entfernt
+16769	ogg unterstützung für ubuntu music app
+135014	wie kann man den farbton im ambience theme ändern ?
+7206	wie kann ich eine anwendung zuordnen, sodass sie immer im workspace #2 öffnet ?
+178152	pulseaudio antwortet nicht , jedes programm das versucht es zuzugreifen friert ein
+40477	wo werden die unity einstellungen gespeichert ?
+138923	zeige desktop im ubuntu launcher
+262048	ausführen von ubuntu ohne monitor auf 12.10
+451748	ubuntu 14.04,32 oder 64 bit mit 2 gb ram ?
+417072	downgraden von ubuntu 12.10 nach 12.04
+159824	wie automatisch ältere paketversionen aus einem benutzerdefiniertem repository entfernen ?
+233528	wie kann man den 404 fehler beim installieren von updates beheben ?
+149623	aktualisiert auf xfce 4.10 , tastatur media keys funktionieren nicht mehr
+25668	kann man ubuntu von einer festplatte installieren ?
+15408	flashplugin-installer vs. flashplugin-nonfree vs. adobe-flashplugin
+141759	wie kann man gnome shell installieren und aktivieren ?
+516029	verbinden zu wpa meines kollegen auf ubuntu 14.04 lts
+217494	wie kann man eine ubuntu 12.10 live cd erstellen ?
+160810	warum werden intel hd 3000 grafikkarten ( sandy bridge ) als unbekannt erfasst ?
+470059	server/nas server/ ? ? ?
+159802	wie kann ich eine stichprobe von bildern von meinem kamera import selektieren und diese in einen anderen ordner auf meinem system verschieben
+410485	wie kann ich windows 7 frisch auf die `` other '' partion installieren ?
+272213	aktualisieren von  10.10 nach 11.04 auf dell latitude 430
+296251	inspiron 15r special edition + ubuntu
+55575	problem bei aktualisierung von ubuntu 9.10
+329621	ubuntu 13.04 ohne wubi works
+146555	möchte zugang als root beim login bildschirm um backups via deja-dup gui durchzuführen
+359473	aktualisieren von 12.04 nach 12.04.1
+313255	kann mir irgendjemand sagen wie man guake terminal in start-up applications aufnimmt ?
+403233	`` starting jack server ... can not connect to server socket err = no such file or directory ''
+379041	wie kann man skype auf ubuntu 13.10 installieren ?
+368390	wie ein paket und alle seine abhängigkeiten von ubuntu installations cd extrahieren
+120788	wie kann ich ein ubuntu recovery image auf einem externen medium erstellen ?
+454820	ubuntu virtualbox display driver ?
+10607	welche anwendungen zur massenweisen umbenennung von dateien gibt es ?
+143487	es erscheint kein speichern dialog wenn ich den druckschirm drücke
+159829	was machen wenn disk utility schlechte sektoren in smart zeigt ?
+286015	das neue ubuntu upgrade ( 13.04 ) lässt mich nicht mit wi-fi verbinden
+21348	gibt es eine wetteranzeige ?
+43570	eigentümer ändern auf interner festplattenpartition von root zu user
+214383	kann ich ubuntu one auf einer ubuntu server umgebung ausführen ?
+365357	wo kann man neue splash screens finden ? ubuntu 13.10
+510724	hat ubuntu eine grafische software um unterschiede in dateien zu vergleichen und zusammenzuführen ?
+68826	wie kann ich mehr arbeitsflächen hinzufügen ?
+367098	ist es möglich vier os auf einem einzelnen laptop mit 1tb festplatte und 8gb ram auszuführen
+482900	flash player ( in firefox ) ist instabil in 14.04
+421959	konvertiere heruntergeladene youtube videos ( heruntergeladen mit youtube-dl ) nach audio-only , ohne verluste ?
+371153	wie kann ich windows xp von meinem ntfs deinstallieren wenn ich auch ubuntu dort installiert habe
+98639	aktualisieren von ubuntu 11.10 ohne internetverbindung
+461971	wie den computer reparieren nach der ubuntu deinstallation
+360465	wird aktualisieren von windows 8 auf 8.1 ubuntu beeinflussen ?
+430866	aktualisieren von ubuntu mittels mounted iso
+365375	ubuntu 12.04.3 download
+173257	habe windows8 installiert und nun ist grub verschwunden , hilfe ?
+163951	wie kann man upgraden/downgraden von 12.04 nach 11.10
+498490	neuinstallation von ubuntu 12.04 ohne datenverlust
+125624	dell inspiron 1525 , aktualisiert auf 12.04 und habe kabellose internetverbindung verloren
+367983	wie kann ich ctrl-alt-backspace aktivieren um den x server zu killen ?
+444641	windows phone 8 musik sync
+470919	wie amazon lense deaktivieren in 14.04 ?
+470094	stündliche crashes 14.04
+102074	wie kann ich ubuntu entfernen und windows 7 installieren ?
+178939	wie kann ich das hässliche google chrome icon entfernen in dem gnome3 anwendungstab ?
+490560	unfähig ein medium mit live dateisystem zu finden
+299345	wie kann man webgl in chrome auf ubuntu aktivieren ?
+329614	wie kann man ein script erstellen das immer beim systemstart aktiviert wird ?
+277181	nicht möglich ubuntu 7.10 auf hp pavilion p6 2335 il desktop zu installieren
+71534	wlan karte funktioniert nicht auf hp dv2104
+337288	die folgenden pakete haben unerfüllte abhängigkeiten ( kde )
+229474	raring ringtail aktualisierung
+384450	bei installation von ubuntu in virtual box bekomme ich einen fehler
+201038	ist es möglich die neuesten firefox auf älteren versionen von auszuführen ?
+179455	reallocated sector count - droht wirklich ein festplattenfehler ?
+67553	themes in ubuntu 11.10 hinzufügen
+250013	wo kann man verbesserungen der user experience vorschlagen ?
+261554	iso auf usb schreiben
+230488	wie kann ich wubi install auf 100 giga erhöhen
+375508	kühler läuft auf voller geschwindigkeit bei nutzung von xorg treibern
+445963	heartbleed bug in ubuntu 13.04
+183590	mergelist fehler bei aktualisierung 12.04
+55551	wie kann ich ubuntu zwingen bei einem steckengebliebenem boot menü zu booten?
+520066	magento : php erweiterung `` curl '' muss geladen werden
+365377	auf 13.10 , wo ist mein dropbox icon
+468620	wifi funktioniert nicht auf asus u32 mit ubuntu 14.04
+409498	lenovo z510 ubuntu schwarzer bildschirm
+39489	gibt es einen weg um "auto-maximize" auszuschalten ?
+163908	konnte nicht auf ubuntu 8.04 aktualisieren, apt-get update schlägt fehl
+426757	wo werden ausführbare programme installiert ?
+138043	wie kann ich ein dual boot 11.10 deinstallieren ?
+96036	wie konvertieren eines konfigurierten ubuntu systems nach einer unlimitierten iso ?
+174583	ein mögliches java problem bewirkt dass ein java programm nicht funktioniert ?
+430878	netflix lädt nicht
+90700	schwarzer bildschirm nach installation mit wubi
+485162	aufsetzen von intel graphics 4000 auf ubuntu 14.04
+438753	wie kann man das netzwerk auf der kommandozeile ohne sudo deaktivieren ?
+473101	.desktop datei funktioniert nicht
+234833	welche distribution von ubuntu soll ich wählen wenn ich mich auf performance fokussiere ? kubuntu ?
+178947	wie firefox 14.0.1 installieren ( oder irgendeine andere neueste version ) auf ubuntu 10.10 ?
+310180	wie dateien freigeben in einem kabellosen netzwerk ?
+201926	wenn ich versuche ubuntu 12.04 von cd zu installieren , hänge ich in einem schwarzen bildschirm fest mit `` lade bootlogo ... ''
+454030	welche version soll ich nutzen für i3-2100 ?
+455327	kann nicht auf login 14.04 einloggen nach erfolgreicher installation
+72956	finde welches package ein tool geliefert hat  / anwendung in ubuntu 11.10
+76403	welche ist die einfachste methode um dateien zwischen windows und ubuntu zu teilen ?
+348787	wie ubuntu zusammen mit windows 8 installieren
+91121	home ordner kopie von 1 maschine auf eine andere
+203725	keine icons oder irgendetwas auf desktop
+362293	ubuntu 13.10 installation startet nicht . stattdessen bekomme ich einen schwarzen bildschirm
+520998	installation von treibern für meinen kabellosen adapter
+397778	kann das entfernen von gufw gefährdungen für mein system schaffen ?
+1064	was ist wubi ? wie funktioniert es ?
+16728	verstecke aktuelles working directory im terminal
+319421	wo kann man umgebungsvariablen für alle user setzen
+134549	ist es legal das msttcorefonts paket zu installieren ? ist wine legal ?
+279722	wird es mir möglich sein ein upgrade auf 13.04 von 12.10 durchzuführen mit einer wubi installation ?
+470032	ubuntu download fehler ?
+113657	tastatur funktioniert nicht bei grub
+32894	banshee stürzt ab mit `` an unhandled exception was thrown : ''
+469960	netzwerk manager icon ist nicht sichtbar im system tray
+35963	wie macht man den unity launcher immer sichtbar ?
+175884	ubuntu software center startet , stürzt dann ab bevor es voll geladen ist
+46588	wie kann man ntfs partitionen automatisch mounten ?
+395199	wie kann man nach einem download installieren ?
+236651	wie installiere ich zusätzliche treiber wenn beide kabel und kabellos fehlschlagen ?
+468606	wie ändert man die standard python version vom terminal aus ?
+37651	wie kann ich unity aktivieren ?
+171555	gibt es einen weg um paket downloads zu beschleunigen mit langsamen verbindungen ?
+166186	warum gibt mir der update manager einen 404 fehler mit diesen google repositories ?
+62681	wie setze ich zwei monitore in xfce auf ?

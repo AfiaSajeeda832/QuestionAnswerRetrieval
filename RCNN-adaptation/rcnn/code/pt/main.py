@@ -11,7 +11,19 @@ import numpy as np
 import theano
 import theano.tensor as T
 
+import os
+#Following lines are for assigning parent directory dynamically.
+
+dir_path = os.path.dirname(os.path.realpath(__file__))
+
+parent_dir_path = os.path.abspath(os.path.join(dir_path, os.pardir))
+
+sys.path.insert(0, parent_dir_path)
+
+import utils
+
 from utils import load_embedding_iterator
+import nn
 from nn import get_activation_by_name, create_optimization_updates
 from nn import Layer, EmbeddingLayer, LSTM, GRU, RCNN, Dropout, apply_dropout
 from nn.evaluation import evaluate_average

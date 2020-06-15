@@ -1,0 +1,186 @@
+96821	mit lesezeichen versehene freigaben auf einem heimserver verschwinden ständig nach herunterfahren
+396433	möchte ubuntu 12.04 neu installieren mit / auf ssd und /home aber alle einstellungen behalten
+269568	das system läuft in low graphics mode
+352815	was ist der unterschied zwischen dem installieren von ubuntu auf einem usb gerät und einer laptop festplatte ?
+175046	10.04 installieren von flash player , bekomme weißen bildschirm
+401490	keine ubuntu partitionen auf installiertem dual boot system
+405072	welche treiber soll ich für meinen drucker nutzen ?
+81824	wie kann ich eine 32-bit installation zu 64-bit wechseln ?
+206745	apt sources.list deaktiviert nach upgrade auf 12.04
+372420	ist es möglich mittels terminal auf eine neue version zu upgraden ?
+34670	wie kann ich klassische kategorien in unity's dash hinzufügen ?
+180459	wubi grub abfrage `` minimal bash-like line editing is supported ''
+103453	große hässliche icons in benachrichtigungsbereich
+173329	welche alternativen gibt es zu dem lila boot splash screen ?
+388829	kabellos ist deaktiviert in 12.04 ubuntu
+138908	wie kann man ein skript ausführen indem man es doppelklickt wie eine .exe in windows ?
+59922	wie kann ich manuell das unity top panel editieren ?
+22667	warum ist die firewall standardmäßig deaktiviert ?
+42284	was ist das ubuntu `` built in virus protection '' ?
+103464	habe gerade sicherheitsupdates installiert und bekomme nur noch einen weißen Bildschirm
+140425	gibt es einen weg um den home folder auf verschlüsselung umzustellen nach upgrade auf 14.04
+163982	ausführen von 12.04 von usb ohne festplattennutzung
+165662	wie kann ich ubuntu 's web application integration nutzen ?
+420671	ersetze windows mit ubuntu mittels eine disk gebranntes iso ?
+204166	wie mounte ich eine hibernated ntfs partition ?
+103456	automatische großenanpassung von windows mit xfce wie in gnome
+26150	gibt es einen tastaturbefehl um die menüleiste zuzugreifen ?
+203773	frische installation von ubuntu 12.10 booted nicht auf asus x101ch eee pc
+45343	wie kann man adium themes für pidgin installieren ?
+325291	wie kann ich ubuntu auf einem pc installieren mit vorinstalliertem windows 8 auf samsung np370r5e-s04in
+347506	wie können wir die kommandozeile einer laufenden anwendung bekommen ?
+80589	welches sind einige der probleme mit ccsm und warum sollte ich es es meiden ?
+315967	installieren von ubuntu paketen auf anderer maschine ?
+121288	habe 12.04 auf lenovo x120e installiert jetzt kann ich nicht mehr booten
+174552	wie kann ich die ask ubuntu website als desktop live wallpaper setzen ?
+280724	kann nicht updaten , kann dkms nicht reinstallieren
+103466	was ist der unterschied zwischen ubuntu 11.10 und ubuntu 11.10 server version ?
+250954	chrome und firefox laden flash plugin nicht ( konnte plug-in nicht laden )
+115432	ändere boot entry namen und grub hintergrund ?
+37656	wie kann ich banshee beenden ?
+74690	wie kann man 32 bit wine auf 64 bit ubuntu installieren ?
+497191	ich brauche hilfe beim deinstallieren von ubuntu bitte helfen
+370758	rosetta stone zugriffsproblem
+262912	wie kann ich ubuntu von usb booten ?
+173299	wie kann man unity und die standard desktop umgebung von ubuntu löschen
+278457	netflix funktioniert nicht ohne neues silverlight update
+423702	fehlersuche leerer ld_library_path
+48393	wie kann man die keyboard medientasten global zum laufen bringen mit vlc ?
+381367	warum gibt es keine shell ?
+169259	wubi zeigt fehler 'nonetype ' objekt hat kein attribut 'get_info '
+277976	nvidia geforce 9600m gt nicht aktiviert
+422452	ubuntu von usb platte installieren
+378610	htc x920d a.k.a htc butterfly
+376081	wie kann man arabisch numerisch in libreoffice schreiben ?
+114129	schreibtischhintergrund mit gconftool-2
+128732	programmeintrag im sound indicator verbergen
+393330	wie kann man eine externe webcam als standard webcam setzen ?
+306931	wie kann man den samba file server zum teilen zwischen ubuntu pcs konfigurieren
+491861	dual boot ubuntu 14 .04lts
+437495	neuer linux tojamer virus ? `` hand of thief ''
+429043	installieren von 3.13 kernel auf saucy ( 13.10 ) - möglich ?
+47976	wie kann ich ein etwas traditionelleres dropdown-artiges menü bekommen für unity ?
+407609	wie kann ich den update manager zum laufen bringen
+89710	wie kann ich mehr platz freigeben in /boot ?
+180432	was passierte in meinem launcher icon größen slider in einstellungen > darstellung und wie kann ich es wieder bekommen ?
+367963	ubuntu auf lenovo yoga 2 pro
+343901	wo soll ich den code ablegen um absynth 5 zu installieren ?
+3659	downgrade von einer version auf eine vorherige version ?
+429050	freigeben von platz auf partition
+360523	verbinden eines nexus 7 zu ubuntu
+515596	ich komme nicht in die sudoers auflistung
+481638	wechseln von windows 8.1 auf ubuntu - was kann ich machen um onedrive zu ersetuen ?
+13730	wie kann ich einen nächtlichen reboot planen ?
+398232	wie kann man packete auf offizielle releases zurücksetzen ?
+400180	ubuntu 13.10 netzwerkverbindungsprobleme
+76446	wie kann ich gnome shell benchrichtigungseinstellungen konfigurieren ?
+324818	korrekter weg um virtuelle abhängigkeit zu installieren
+464282	nvidia treiber , schwarzer anmeldeschirm
+68888	wie kann man xfce auf ubuntu 11.10 installieren
+91119	update manager weigert sich zu aktualisieren
+25746	/etc/x11/xorg.conf existiert nicht ?
+284293	ubuntu 12.04 booted nicht von usb
+293157	wie kann man von 12.4 auf 13.10 upgraden
+320471	einige index dateien können nicht heruntergeladen werden
+390319	mounten von iphone 4
+314644	beschleunigen von internetverbindung ?
+290926	kann apache nicht auf ubuntu 13.04 installieren
+138950	wie kann man ein das verschlüsselte home verzeichnis deaktivieren ?
+416544	was ist der name der systemeinstallungen für terminal
+499786	herunterladen von apps aus ubuntu software center und ausführen in windows 7
+520900	wie kann man eine partition in ubuntu 14.04 erstellen ?
+314551	ein kommando ausführen nachdem ein spezifisches usb eingesteckt wurde
+209891	ubuntu 12.04 / 12.10 friert zufällig ein - nvidia ?
+119817	alps touchpad mit dell inspiron i15rn-3647bk und ubuntu 11.10 x64
+214355	gibt es einen weg bilder duplikate in ubuntu zu finden ?
+453507	konvertiere .jar nach executable
+183527	`` ein fehler trat während der verifikation der signatur auf . '' während apt-get update
+42281	ändere das standardmäßige 'open with ' auf den dokumente ordner
+382782	gebe berechtigung für /var/www
+101659	startet mit schwarzem bildschirm aber wiederherstellungs boot modus funktioniert
+18531	fehler kein speicherplat , grub rescue
+297607	ubuntu 12.4 wird nicht aktualisieren [ nicht erfüllte abhängigkeiten ]
+73357	wie kann ich den treiber für eine microsoft lifecam vx-3000 installieren ?
+385768	verbinden meines galaxy s duos handys als massenspeicher oder treiber
+308760	w : gpg fehler : http : //ppa.launchpad.net precise release : die folgenden signaturen konnten nicht bestätigt werden weil der öffentliche schlüssel nicht verfügbar ist :
+338543	installieren von libopencv-dev 32bit auf 12.04 64bit
+231757	bildschirmfoto tools um scrollende fenster aufzunehmen
+354675	wo und wie kann ich die *desktop*.iso datei finden die benötigt wird um universal usb installer zu installieren ? ich brauche es um ubuntu zu installieren
+67593	setze farben des gedit eingebetteten terminals gleich mit standard terminal
+204112	upgrade auf 12.10 button nicht mehr auf update manager
+446418	heartbleed ubuntu 13.04 steckt fest bei openssl 1.0.1c
+294471	wie finde ich heraus wo die kommandozeilen kommandos installiert sind ?
+155494	ubuntu gab berechtigungen frei auf meiner data partition
+183533	freigeben von unterordnern mit ubuntu one
+84906	wie kann man speicherplat auf /boot freigeben ?
+14168	installationsprogramm steckt fest mit einem ausgegrauten weiter button
+155491	vorteile / nachteile durch installation über quellcode
+448135	wie kann ich grub auf einem raid array installieren ?
+485968	ubuntu installation hat windows gelöscht
+171544	konstante abstürze und einfrieren nach aktualisierung auf 12.04
+195507	wie kann man verhindern dass unity dash die tastatur kontrolliert
+294551	deaktivieren von zustimmung bei herunterfahren
+378661	gibt es einen kommandozeilen taschenrechner für ubuntu ?
+184840	warum liefert das ubuntu software center eine veraltete version von tex live aus ?
+285627	unity startet nicht in ubuntu 13.04
+171521	wie lautet das passwort für `` ssh root @ localhost `` ?
+77787	wie kann ich fenster vorschauen bekommen bei hover über die unity bar anwendungsicons ?
+156713	ändern des schreibtischhintergrunds mittels terminal
+368473	wubi installation war in ordnung . wochen später kann ich nicht in ubuntu booten . kann ich nun versuchen mit platte oder usb zu booten und habe ich noch zugriff auf meine dateien ?
+290949	installieren von ubuntu auf einer anderen festplatte ( f : )
+491820	wie bringe ich youtube zum laufen ?
+9017	wie kann ich mein root passwort wiederherstellen ?
+285609	wie kann man die amd ati radeon graphics hd 6770m installieren
+69201	compiz absturz hinterlässt unbenutzbare überfläche
+119803	gründe warum man ubuntu nicht auf eine neuere / ältere kernel version aktualisieren soll
+503593	wie löst man 'nodata ' ( benötigt das netzwerk authentifizierung ? ) problem ?
+397771	wie kann man window mit anderen maschine teilen ?
+418357	wie würde ich ubuntu auf einer platte installieren die bereits windows 7 beinhaltet, ohne dual boot
+401442	das muss ich ich bei grub ändern oder hinzufügen um den schwarzen bildschirm los zu werden ?
+452297	möglicher memory leak auf ubuntu 10.04 lts
+39444	was ist der visuelle unterschied zwischen unity 3d und unity 2d ?
+101650	wie kann ich thunderbird kontakte mit ubuntu one synchronisieren ?
+192426	ein problem mit conky in gnome 3.4
+55570	problem bei aktualisieren von ubuntu 9.10
+393400	ist es möglich zwei verschiedene dpi konfigurationen für zwei verschiedene bildschirme zu haben ?
+20015	firefox answendungszuordnungen funktionieren nicht
+216112	wie stabile `` gnome shell 3.6 '' installieren auf ubuntu 12.04 ?
+52413	methode um live usb platte zu erstellen ( mit persistenz ) die tatsächlich funktioniert ?
+406357	wie kann man ein passwort ändern
+224609	sollte ich programme von einem source tarball ( `.tar.gz` ) insallieren , aus dem ubuntu software centre , oder von sonstwo ?
+5440	installieren von paketen auf mehreren systemem
+55522	wie kann man das öffnen von duplikat dateien in neuen fenstern in gedit vermeiden ?
+468609	audio decoder ( mp3 ) ist nicht da
+234851	ubuntu friert ständig ein aber maus bewegt sich noch
+12360	wo kann ich ein repository mit älteren nicht mehr unterstützten releases finden ?
+26172	kann ich mein gesamtes ram für anwendungsdaten nutzen ?
+510760	brauche hilfe beim erstellen von tastaturbefehlen auf dem desktop in ubuntu
+73376	gnome-shell , wie kann ich es reparieren ?
+485989	wie kann man windows 8 pro installieren nachdem man ubuntu 14.04 installiert hat
+469945	wie speichert man kommandozeilenausgaben in einer textdatei ?
+239673	gparted - erhöhe ext4 partition mit nicht zugewiesenem platz
+48331	wie verschlüssel ich eine ext4 home ordner partition ?
+174593	warum ist der leistungsverlust der batterie in ubuntu größer im vergleich zu windows auf einem dell inspiron ?
+169215	wetteranzeige app hörte auf zu funktionieren
+286005	skype stürzt ab nach installation von ubuntu 13.04
+125662	wie setzt man das gnome panel zurück ?
+3678	wie mache ich mein eigenes dropbox / ubuntu one server zu hause ?
+409418	wie kann man flash zum laufen bringen auf ubuntu 13.10
+132745	wie installiert man ubuntu 32bit mit wubi
+501831	habe 14.04 auf einen usb stick heruntergeladen
+433055	w : duplikat sources.list eintrag
+8508	rss torrent software
+520011	frische installation von xubuntu auf einem acer travelmate 2410 , system startet nicht neu und lässt sich nicht herunterfahren
+252633	wie die richtigen windows taste auf backspace abbilden ?
+457008	unmöglich mit wlan zu verbinden in ubuntu 14.04 ?
+406329	benachrichtigung auf ubuntu nach entfernen von i3 desktop 
+366693	software um einfach und schnell bunte und intuitive gutachten seiten zu erstellen
+33378	firefox wird standardbrowser nach upgrade . kann nicht auf google chrome zurücksetzen
+268194	mounten einer platte wenn windows hibernated ist
+457036	wie kann man diskrete grafik in ubuntu 14.04 deaktivieren
+401514	dpkg : fehler : kann keine updates in directory `/var/lib/dpkg/updates/ ' scannen : datei oder ordner existiert nicht
+510694	welches ubuntu os ist am besten geeignet für meinen alten core duo 1.66ghz laptop stand 13 august 2014 ?
+286894	wie kann man ubuntu entfernen
+195543	welchen grafiktreiber für amd radeon 6400m
+339005	kann nicht von usb booten
+146530	ist dieses ppa sicher und wird es funktionieren ?

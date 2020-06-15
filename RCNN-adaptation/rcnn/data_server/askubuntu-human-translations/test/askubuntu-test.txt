@@ -1,0 +1,186 @@
+96821	bookmarked shares on a home server constantly disappearing after shutdown
+396433	want to install ubuntu 12.04 new on ssd for / and hdd for /home but keep all settings
+269568	the system is running in low graphics mode
+352815	what is the difference between installing ubuntu on a usb device and a laptop hardisk ?
+175046	10.04 install flash player , get white screen
+401490	no ubuntu partitions on installed dual boot system
+405072	what drivers should i use for my printer ?
+81824	how can i switch a 32-bit installation to a 64-bit one ?
+206745	apt sources.list disabled on upgrade to 12.04
+372420	is it possible to upgrade to a new version via terminal ?
+34670	how do i add classical categories in unity 's dash ?
+180459	wubi grub prompt `` minimal bash-like line editing is supported ''
+103453	big ugly icons in notification area
+173329	what alternatives are available to replace the purple boot splash screen ?
+388829	wireless is disabled in 12.04 ubuntu
+138908	how to execute a script just by double clicking like .exe files in windows ?
+59922	how can i manually edit the unity top panel ?
+22667	why is the firewall disabled by default ?
+42284	what is the ubuntu `` built in virus protection '' ?
+103464	just installed security updates now all i get is a white screen
+140425	is there a way to change my home folder to encrypted after upgrading to 12.04
+163982	run 12.04 from usb with no hard disk usage
+165662	how do i use ubuntu 's web application integration ?
+420671	replace windows with ubuntu with iso burned onto disk ?
+204166	how do i mount a hibernated ntfs partition ?
+103456	automatically size windows using xfce like in gnome
+26150	is there a shortcut key for accessing the menu bar ?
+203773	fresh install of ubuntu 12.10 wo n't boot on asus x101ch eee pc
+45343	how to install adium theme for pidgin ?
+325291	how can i install ubuntu on a pc preinstalled with windows 8 on samsung np370r5e-s04in
+347506	how can we get the command line of a running application ?
+80589	what are some of the issues with ccsm and why would i want to avoid it ?
+315967	install ubuntu packages to other machine ?
+121288	installed 12.04 on lenovo x120e now i ca n't boot
+174552	how can i set ask ubuntu website as desktop live wallpaper ?
+280724	can not update , can not reinstall dkms
+103466	whats the difference between ubuntu 11.10 and ubuntu 11.10 server version ?
+250954	chrome and firefox not loading flash plugin ( could n't load plug-in )
+115432	change boot entry names and grub background ?
+37656	how do i quit banshee ?
+74690	how to install 32 bit wine on 64 bit ubuntu ?
+497191	i need help uninstalling ubuntu please help
+370758	rosetta stone permissions problem
+262912	how can i boot ubuntu from a usb ?
+173299	how to remove unity and the default desktop environment of ubuntu
+278457	netflix wont work without new silverlight update
+423702	troubleshooting blank ld_library_path
+48393	how to make the keyboard media keys to work with vlc globally ?
+381367	why there is no shell ?
+169259	wubi gives error 'nonetype ' object has no attribute 'get_info '
+277976	nvidia geforce 9600m gt not enabled
+422452	install ubuntu from usb drive
+378610	htc x920d a.k.a htc butterfly
+376081	how to write arabic numerical on libreoffice ?
+114129	setting desktop background with gconftool-2
+128732	hide program entry 's in sound indicator
+393330	how set external webcam as a default webcam ?
+306931	how to configure samba file server for sharing between ubuntu pc 's
+491861	dual boot ubuntu 14 .04lts
+437495	new linux trojan virus ? `` hand of thief ''
+429043	installing 3.13 kernel on saucy ( 13.10 ) - possible ?
+47976	how can i get a more traditional drop-down like menu for unity ?
+407609	how do i make update manager work
+89710	how do i free up more space in /boot ?
+180432	what happened to my launcher icon size slider in settings > appearance and how can i get it back ?
+367963	ubuntu on lenovo yoga 2 pro
+343901	where do i put this code to install absynth 5 ?
+3659	downgrade from one version to a previous version ?
+429050	freeing up partition space
+360523	connecting a nexus 7 to ubuntu
+515596	i ca n't get into the sudoers listings
+481638	moving from windows 8.1 to ubuntu - what can i do to replace onedrive ?
+13730	how can i schedule a nightly reboot ?
+398232	how to revert packages to official release ?
+400180	ubuntu 13.10 network connectivity issues
+76446	how can i configure gnome shell notification settings ?
+324818	correct way to install virtual dependency
+464282	nvidia driver , black login screen
+68888	how to install xfce in ubuntu 11.10
+91119	update manager refuses to update
+25746	/etc/x11/xorg.conf does n't exist ?
+284293	ubuntu 12.04 does n't boot from usb
+293157	how to upgrade 12.4 to 13.10
+320471	some index files failed to download
+390319	mounting iphone 4
+314644	speed internet connection up ?
+290926	ca n't install apache on ubuntu 13.04
+138950	how to disable encrypted home directory ?
+416544	what is the name of system settings for terminal
+499786	download apps from ubuntu software center and run in windows 7
+520900	how to do partition in ubuntu 14.04 ?
+314551	run a command after a specific usb was plugged in
+209891	ubuntu 12.04 / 12.10 randomly freezing - nvidia ?
+119817	alps touchpad on dell inspiron i15rn-3647bk with ubuntu 11.10 x64
+214355	is there a way to find duplicate images in ubuntu ?
+453507	convert .jar to executable
+183527	`` a error occurred during the signature verification . '' during apt-get update
+42281	change default 'open with ' for document folder
+382782	give permission to /var/www
+101659	boot to a black screen but recovery mode boot works
+18531	error out of disk , grub rescue
+297607	ubuntu 12.4 will not update [ unmet dependencies ]
+73357	how do i install the driver for a microsoft lifecam vx-3000 ?
+385768	connect my galaxy s duos phone as mass storage or drivers
+308760	w : gpg error : http : //ppa.launchpad.net precise release : the following signatures could n't be verified because the public key is not available:
+338543	install libopencv-dev 32bit on 12.04 64bit
+231757	screenshot tools to capture scrolling windows
+354675	where and how do i find the *desktop*.iso file needed to install universal usb installer ? i need it to install ubuntu
+67593	make gedit embedded terminal colours the same as the default terminal
+204112	upgrade to 12.10 button not on update manager
+446418	heartbleed ubuntu 13.04 stuck on openssl 1.0.1c
+294471	how do i find out where are command line commands installed ?
+155494	ubuntu took away permissions from my data partition
+183533	sharing subfolders with ubuntu one
+84906	how to free up space on /boot ?
+14168	installer gets stuck with a grayed out forward button
+155491	advantages/disadvantages of installing from source code
+448135	how do i get grub to install on a raid array ?
+485968	ubuntu install erased windows
+171544	constant crashes and freezes after upgrade to 12.04
+195507	how to prevent unity dash from taking keyboard control
+294551	disable the confirmation of shutdown
+378661	any command line calculator for ubuntu ?
+184840	why does the ubuntu software center deliver an outdated version of tex live ?
+285627	unity does not start in ubuntu 13.04
+171521	what is the password for `` ssh root @ localhost `` ?
+77787	how can i get window thumbnails when hovering over unity bar application icons ?
+156713	change desktop background from terminal
+368473	wubi install was fine . weeks later , i can not boot into ubuntu . can i now try to boot via disk or usb and still have access to my files ?
+290949	installing ubuntu on another hard drive disk ( f : )
+491820	how do i get youtube to work ?
+9017	how do i recover my root password ?
+285609	how to install amd ati radeon graphics hd 6770m
+69201	compiz crash leaves no usable interface
+119803	reasons why not to update an ubuntu version to a newer/older kernel version
+503593	how to solve the 'nodata ' ( does the network require authentication ? ) problem ?
+397771	how to share wine with other machine ?
+418357	how would i install ubuntu on a disk already containing windows 7 , not dual booting
+401442	that i 'm must change or add to the grub for the disappearance of a black screen ?
+452297	possible memory leak on ubuntu 10.04 lts
+39444	what 's the visual difference between unity 3d and unity 2d ?
+101650	how can i get thunderbird contacts to sync with ubuntu one ?
+192426	a problem with conky in gnome 3.4
+55570	problem upgrading ubuntu 9.10
+393400	is it possible to have two different dpi configurations for two different screens ?
+20015	firefox application associations not working
+216112	how to install stable `` gnome shell 3.6 '' for ubuntu 12.04 ?
+52413	method to create a live usb disk ( with persistence ) which actually works ?
+406357	how to change a password
+224609	should i install programs from a source tarball ( `.tar.gz` ) , from the ubuntu software centre , or from elsewhere ?
+5440	installing packages in multiple systems
+55522	how to avoid opening duplicate files in new windows in gedit ?
+468609	audio decoder ( mp3 ) is not present
+234851	ubuntu keeps freezing but mouse still moves
+12360	where can i find a repository for older unsupported releases ?
+26172	can i use all my ram for application data ?
+510760	need help creating shortcuts on the desktop in ubuntu
+73376	gnome-shell , how to fix it ?
+485989	how to install windows 8 pro after installing ubuntu 14.04
+469945	how to save command line output to text file ?
+239673	gparted - increase ext4 partition using unallocated space
+48331	how do i encrypt ext4 home folder partition ?
+174593	why does battery power drain quicker in ubuntu compared to windows in dell inspiron ?
+169215	weather indicator app stopped working
+286005	skype crashes after installing ubuntu 13.04
+125662	how to reset gnome panel ?
+3678	how to make my own dropbox / ubuntu one server at home ?
+409418	how to get flash working on abuntu 13.10
+132745	how to install ubuntu 32bit with wubi
+501831	downloaded 14.04 to a usb stick
+433055	w : duplicate sources.list entry
+8508	rss torrent software
+520011	fresh install of xubuntu on an acer travelmate 2410 , system will not reboot or shutdown
+252633	how to map right windows key to backspace ?
+457008	unable to connect via wifi in ubuntu 14.04 ?
+406329	notification on unity after i3 desktop removal
+366693	software to easily and quickely create colorful and intuitive review sheets
+33378	firefox becomes default browser after upgrade . can not revert to google chrome
+268194	mount a disk where windows is hibernated
+457036	how to disable discrete graphic in ubuntu 14.04
+401514	dpkg : error : can not scan updates directory `/var/lib/dpkg/updates/ ' : no such file or directory
+510694	which ubuntu os is best for my old core duo 1.66ghz laptop as of 13 august 2014 ?
+286894	how to remove ubuntu
+195543	which graphics driver amd radeon 6400m
+339005	cant boot from usb
+146530	is this ppa safe and will it work ?
